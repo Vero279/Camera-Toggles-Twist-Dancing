@@ -1,5 +1,6 @@
 # 🕺 Camera Toggles Twist Dancing
 <img src="screenshots/screenshot_1.png" width="48%"/> <img src="screenshots/screenshot_2.png" width="48%"/>
+
 A Unity WebGL project featuring a female character dancing the Twist, observed from two distinct camera perspectives. The viewer can toggle between cameras, becoming an active participant in an open narrative experience.
 
 ---
